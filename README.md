@@ -10,10 +10,10 @@ A light-weight convolutional neural network for face detection described in [1]
 
  <div class="row">
   <div class="column">
-    <img src="https://github.com/danaitri/papers/blob/master/BigDataResearch/FDDB000000.jpg" alt="Snow" style="width:100%">
+    <img src="https://github.com/danaitri/papers/blob/master/BigDataResearch/FDDB000000.jpg" alt="Snow" style="width:50%">
   </div>
   <div class="column">
-    <img src="https://github.com/danaitri/papers/blob/master/ICPR/example3.jpg" alt="Forest" style="width:100%">
+    <img src="https://github.com/danaitri/papers/blob/master/ICPR/example3.jpg" alt="Forest" style="width:50%">
   </div>
 </div> 
 
