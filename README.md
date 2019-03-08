@@ -7,17 +7,14 @@ A light-weight convolutional neural network for face detection described in [1]
 <p align="center">
 <img width="288" height="384" src="https://github.com/danaitri/papers/blob/master/BigDataResearch/FDDB000000.jpg">
 </p>
+.pull-left[
+<img src="https://github.com/danaitri/papers/blob/master/BigDataResearch/FDDB000000.jpg" width=300 height=400>
+]
 
- <div class="row">
-  <div class="column">
-    <img src="https://github.com/danaitri/papers/blob/master/BigDataResearch/FDDB000000.jpg" alt="Snow" style="width:10%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/danaitri/papers/blob/master/ICPR/example3.jpg" alt="Forest" style="width:10%">
-  </div>
-</div> 
+.pull-right[
+<img src="https://github.com/danaitri/papers/blob/master/ICPR/example3.jpg" width=300 height=242>
+]
 
-![alt-text-1](https://github.com/danaitri/papers/blob/master/BigDataResearch/FDDB000000.jpg) ![alt-text-2](image2.png https://github.com/danaitri/papers/blob/master/ICPR/example3.jpg)
 
 [1]. Fast deep convolutional face detection in the wild exploiting hard sample mining. D Triantafyllidou, P Nousi, A Tefas Big data research 11, 65-76
 
