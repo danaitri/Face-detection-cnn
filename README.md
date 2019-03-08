@@ -6,8 +6,6 @@ A light-weight convolutional neural network for face detection described in [1]
 <p align="center">
 <img width = "598" height = "360" src="https://github.com/danaitri/Face-detection-cnn/blob/master/Getting%20started.tex-page-001.jpg">
   
- 
-![](https://media.giphy.com/media/pjqUDLQI2oxUAzH4wi/giphy.gif)
   
 </p>
 <p align="center">
