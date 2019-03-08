@@ -3,6 +3,7 @@
 A light-weight convolutional neural network for face detection described in [1]
 
 ![alt text](https://github.com/danaitri/papers/blob/master/BigDataResearch/detection_examples/12_Group_Group_12_Group_Group_12_201.jpg.jpgdetected00.jpg)
+
 <p align="center">
 ![alt text](https://github.com/danaitri/papers/blob/master/BigDataResearch/FDDB000000.jpg)
 </p>
