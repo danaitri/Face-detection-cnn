@@ -4,7 +4,7 @@ A light-weight convolutional neural network for face detection described in [1]
 
 
 <p align="center">
-<img width="717" height="537" src="https://github.com/danaitri/Face-detection-cnn/blob/master/Getting%20started.tex-page-001.jpg">
+<img  src="https://github.com/danaitri/Face-detection-cnn/blob/master/Getting%20started.tex-page-001.jpg">
 </p>
 
 <p align="center">
